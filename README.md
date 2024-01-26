@@ -1,7 +1,7 @@
 
 # MTL Flatbed Tow Truck ( Fivem READY )
 
-## Grime Van :
+## Tow Truck :
 - [Download](https://github.com/AbdeLhere/0r-flatbed)
 ## Preview :
 ![image](https://github.com/AbdeLhere/0r-flatbed/assets/140607607/8fb4df7a-837e-4fe0-ad9f-34aae28d33ba)
