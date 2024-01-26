@@ -25,5 +25,5 @@ Credits: #ImNotMentaL#
 - pnda for German translation
 - 大雪熊0w0 for Japanese translation
 - ImNotMentaL
-## **__Note: only make it fivem ready by abdel4999 : __**
+## Note: only make it fivem ready by abdel4999 : 
 - [original](https://www.gta5-mods.com/vehicles/mtl-flatbed-tow-truck) 
